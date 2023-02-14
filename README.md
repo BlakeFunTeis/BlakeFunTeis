@@ -86,6 +86,11 @@
     <a href="https://analytics.google.com" target="_blank"><img alt="Google Analytics"
         src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/></a>
 </p>
+<!-- 
+### 📊 Most Used Language
+
+<img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeFunTeis&theme=dark"/> -->
+
 
 <!--
 **BlakeFunTeis/BlakeFunTeis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
