@@ -58,8 +58,6 @@
         src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"/></a>
     <a href="https://redis.io" target="_blank"><img alt="Redis"
         src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a>
-    <a href="https://redis.io" target="_blank"><img alt="Redis"
-        src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a>
     <a href="https://www.mysql.com" target="_blank"><img alt="MySQL"
         src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
     <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img alt="ElasticSearch"
