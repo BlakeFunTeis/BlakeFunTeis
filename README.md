@@ -62,6 +62,10 @@
         src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
     <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img alt="ElasticSearch"
         src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/></a>
+    <a href="https://www.elastic.co/kibana" target="_blank"><img alt="Kibana"
+        src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/></a>
+    <a href="https://web3js.org" target="_blank"><img alt="Web3 JS"
+        src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/></a>
 </p>
 
 #### 🛠 Toolings, platforms, infrastructure providers, and libraries
@@ -79,6 +83,8 @@
         src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://www.postman.com" target="_blank"><img alt="Postman"
         src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
+    <a href="https://analytics.google.com" target="_blank"><img alt="Google Analytics"
+        src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/></a>
 </p>
 
 <!--
