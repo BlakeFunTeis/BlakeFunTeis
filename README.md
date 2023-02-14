@@ -41,6 +41,8 @@
         src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
     <a href="https://www.php.net/" target="_blank"><img alt="PHP"
         src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+    <a href="https://golang.google.cn" target="_blank"><img alt="Golang"
+        src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
 </p>
 
 #### 🎛 Frameworks and runtime environments
