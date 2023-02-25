@@ -12,7 +12,7 @@
 ### About me
 
 - 🔭 I'm currently working on **what's next**.
-- 🌱 I’m currently learning TypeScript, Golang, Python
+- 🌱 I’m currently learning TypeScript, Kotlin, Swift
 - 🏠 Where I'm at home: I'm proudly based in Taipei, Taiwan.
 - ❤️ Generally, I'm truly passionate about Ethereum Smart Contracts, Bitcoin, and OSS Engineering.
 - ⚡ Fun fact: In the early days of computer science, when programmers wrote incorrect code, they used to leave "666" above the error to mock it, but this practice is no longer popular in modern software engineering.
